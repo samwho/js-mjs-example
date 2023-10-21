@@ -1,0 +1,16 @@
+{
+  "name": "js-mjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "bun build index.js --target browser --outfile=out.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js-legacy": "7.3.2",
+    "pixijs-layout": "0.1.7"
+  }
+}
