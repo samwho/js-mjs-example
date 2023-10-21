@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "pixi.js-legacy": "7.3.2",
-    "pixijs-layout": "0.1.7"
+    "pixijs-layout": "0.1.11"
   }
 }
